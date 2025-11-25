@@ -1,5 +1,5 @@
 import 'package:flutter_test/flutter_test.dart';
-import '../lib/core/utils/form_validators.dart';
+import 'package:vanguardmoney/core/utils/form_validators.dart';
 
 void main() {
   group('FormValidators Tests', () {
