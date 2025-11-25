@@ -90,10 +90,6 @@ flutter analyze
 
 ```
 lib/
-├── core/
-│   └── utils/
-│       ├── form_validators.dart    # Validadores principales
-│       └── simple_validators.dart  # Validadores simples
 └── ...
 
 test/
